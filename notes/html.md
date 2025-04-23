@@ -1,3 +1,7 @@
-# Devotional Blog
+# Devo Blog Notes
 
-## Description
+## Plan
+
+## Good to Know
+
+## Issues
