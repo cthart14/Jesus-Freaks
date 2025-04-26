@@ -12,8 +12,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Controllers/" />
     <Folder Include="DevotionalBlogAPI/" />
-    <Folder Include="DevotionalBlogClient/" />
+    <Folder Include="Client/" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DevotionalBlog.Services\DevotionalBlog.Services.csproj" />
   </ItemGroup>
 
 </Project>
