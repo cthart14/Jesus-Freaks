@@ -63,8 +63,8 @@ This is a place to be vulnerable, to grow spiritually, and to keep the gospel fl
 
 > Here's what’s next on the journey 🌱
 
-- [x] Core posting features (text + photo)
-- [x] Responsive front-end
+- [ ] Core posting features (text + photo)
+- [ ] Responsive front-end
 - [ ] User authentication & profile pages
 - [ ] Real-time comments & likes
 - [ ] Daily verse generator
