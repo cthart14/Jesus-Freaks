@@ -12,6 +12,7 @@ obj/
 *.pdb
 *.exe
 *.cache
+*.DS_STORE
 
 # Ignore appsettings files containing sensitive information
 appsettings.json
