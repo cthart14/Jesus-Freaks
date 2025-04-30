@@ -1,11 +1,12 @@
 using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace JF_Services.Models;
 
 public class PostModel
 {   
     public required UserModel USER { get; set; }
-    public required int POST_ID { get; set; }
+    [Key]   public required int POST_ID { get; set; }
     public string? CAPTION { get; set; }
     public required string POST_DATA { get; set; }
     public required DateTime POST_DATE { get; set; }

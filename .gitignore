@@ -17,3 +17,8 @@ obj/
 # Ignore appsettings files containing sensitive information
 appsettings.json
 appsettings.Development.json
+
+# Ignore Database files
+*.db-wal
+*.db-shm
+*.db

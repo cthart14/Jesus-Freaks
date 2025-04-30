@@ -1,4 +1,5 @@
 using System;
+using System.ComponentModel.DataAnnotations;
 
 
 namespace JF_Services.Models;
@@ -6,7 +7,7 @@ namespace JF_Services.Models;
 public class ProfileModel
 {
     public required int USER_ID { get; set; }
-    public required int PROFILE_ID { get; set; }
+    [Key]   public required int PROFILE_ID { get; set; }
     public required string USER_NAME { get; set; }
     public required string PASSWORD { get; set; }
     public required string FIRST_NAME { get; set; }
