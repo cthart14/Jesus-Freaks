@@ -1,4 +1,4 @@
-# ✝️ Devotional Blog
+# ✝️ Jesus Freaks
 
 > A faith-centered platform where believers connect through Scripture, stories, and snapshots of God's work in their lives. 🌿📸
 
@@ -9,7 +9,7 @@
 
 ## 🌄 Our Vision
 
-What began as a moment of inspiration while navigating mainstream social media has blossomed into a Spirit-led mission. **Devotional Blog** was created to provide believers a sanctuary where they can remain rooted in Christ while building meaningful connections with friends and fellow believers.
+What began as a moment of inspiration while navigating mainstream social media has blossomed into a Spirit-led mission. **Jesus Freaks** was created to provide believers a sanctuary where they can remain rooted in Christ while building meaningful connections with friends and fellow believers.
 
 This platform serves as a sacred digital space for uplifting one another, reflecting on God's Word, and celebrating His presence in our daily journey through shared devotionals, personal testimonies, and visual glimpses of His creation.
 
@@ -17,7 +17,7 @@ This platform serves as a sacred digital space for uplifting one another, reflec
 
 ---
 
-## 🙏 Why Choose Devotional Blog?
+## 🙏 Why Choose Jesus Freaks?
 
 In an age of digital distraction, we're creating a purpose-driven online community.
 
@@ -109,10 +109,10 @@ Our mission is to cultivate a digital garden where faith flourishes across gener
 We believe God has gifted His people with talents to build up the body of Christ, including through technology. If you share our vision and have skills to contribute, we'd love your help!
 
 ### How to Get Involved:
-1. Check our [open issues](https://github.com/username/devotional-blog/issues)
+1. Check our [open issues](https://github.com/username/Jesus-Freaks/issues)
 2. Read our [contribution guidelines](CONTRIBUTING.md)
 3. Fork the repo and submit pull requests
-4. Join our [Discord community](https://discord.gg/devotionalblog) for discussions
+4. Join our [Discord community](https://discord.gg/JesusFreaks) for discussions
 
 > "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace in its various forms." – *1 Peter 4:10*
 
@@ -145,7 +145,7 @@ Developed with prayer and purpose by C_threep0.
 
 ---
 
-[![Pray for the Project](https://img.shields.io/badge/🙏-Pray%20For%20This%20Project-blue)](https://github.com/username/devotional-blog)
-[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-orange)](https://www.buymeacoffee.com/devotionalblog)
+[![Pray for the Project](https://img.shields.io/badge/🙏-Pray%20For%20This%20Project-blue)](https://github.com/username/Jesus-Freaks)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-orange)](https://www.buymeacoffee.com/JesusFreaks)
 
 ---

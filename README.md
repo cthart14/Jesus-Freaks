@@ -1,4 +1,4 @@
-# ✝️ Devotional Blog
+# ✝️ Jesus Freaks
 
 > A faith-based social media experience for believers to share Scripture, stories, and snapshots of God’s goodness. 🌿📸
 
@@ -15,7 +15,7 @@ This platform is a place to uplift, reflect, and celebrate the presence of God i
 ---
 
 
-## 🙏 Why Devotional Blog?
+## 🙏 Why Jesus Freaks?
 
 Because we need Christ-centered community in the digital world.
 

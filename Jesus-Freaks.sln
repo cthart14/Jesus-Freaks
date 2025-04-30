@@ -2,9 +2,9 @@
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevotionalBlog.API", "DevotionalBlog.API\DevotionalBlog.API.csproj", "{3968F1D3-FBBA-8EE4-8683-98F66F65FFD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JF_API", "JF_API\JF_API.csproj", "{3968F1D3-FBBA-8EE4-8683-98F66F65FFD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevotionalBlog.Services", "DevotionalBlog.Services\DevotionalBlog.Services.csproj", "{F1B282D1-D3CC-44D5-8F21-7AE6F492D7ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JF_Services", "JF_Services\JF_Services.csproj", "{F1B282D1-D3CC-44D5-8F21-7AE6F492D7ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,7 +1,7 @@
 using System;
 
 
-namespace DevotionalBlog.Services.Models;
+namespace JF_Services.Models;
 
 public class ProfileModel
 {

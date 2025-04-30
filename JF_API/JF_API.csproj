@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>Devotional-Blog</RootNamespace>
+    <RootNamespace>Jesus-Freaks</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,12 +13,11 @@
 
   <ItemGroup>
     <Folder Include="Controllers/" />
-    <Folder Include="DevotionalBlogAPI/" />
     <Folder Include="Client/" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DevotionalBlog.Services\DevotionalBlog.Services.csproj" />
+    <ProjectReference Include="..\JF_Services\JF_Services.csproj" />
   </ItemGroup>
 
 </Project>

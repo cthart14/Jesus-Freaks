@@ -2,11 +2,11 @@ using System;
 using System.Security.Cryptography.X509Certificates;
 using Microsoft.EntityFrameworkCore;
 
-namespace DevotionalBlog.Services.Models.Context;
+namespace JF_Services.Models.Context;
 
-public class DevotionalBlogDbContext : DbContext
+public class JFDbContext : DbContext
 {
-public DevotionalBlogDbContext(DbContextOptions<DevotionalBlogDbContext> options) : base(options) {}
+public JFDbContext(DbContextOptions<JFDbContext> options) : base(options) {}
     
     public DbSet<UserModel> Users { get; set; }
     public DbSet<PostModel> Posts { get; set; }
@@ -14,7 +14,5 @@ public DevotionalBlogDbContext(DbContextOptions<DevotionalBlogDbContext> options
     public DbSet <FollowModel> Follows { get; set; }
     public DbSet<CommentModel> Comments { get; set; }
     public DbSet<LikeModel> Likes { get; set; }
-
- 
 
 }
