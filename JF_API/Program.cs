@@ -1,7 +1,11 @@
 using Microsoft.EntityFrameworkCore;
 using JF_Services.Data.Context;
+using Microsoft.Extensions.Configuration;
+using JF_Services.Models.DTOs;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.Configure<JWTSettings>(builder.Configuration.GetSection("JWTSettings"));
 
 // Add services to the container.
 

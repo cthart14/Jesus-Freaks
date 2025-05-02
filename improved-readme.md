@@ -2,9 +2,6 @@
 
 > A faith-centered platform where believers connect through Scripture, stories, and snapshots of God's work in their lives. 🌿📸
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-
 ---
 
 ## 🌄 Our Vision
