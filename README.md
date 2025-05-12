@@ -50,7 +50,6 @@ This is a place to be vulnerable, to grow spiritually, and to keep the gospel fl
 |Comment and encourage others|🔜 Coming soon|
 |Light + dark mode for reflective reading|🔜 Coming soon|
 |Save meaningful verses and sharing them|🔜 Coming soon|
-|Built in bible |🔜 Coming soon|
 |Mobile-friendly experience|🔜 Coming soon|
 
 
@@ -63,13 +62,12 @@ This is a place to be vulnerable, to grow spiritually, and to keep the gospel fl
 
 > Here's what’s next on the journey 🌱
 
-- [ ] Core posting features (text + photo)
 - [ ] Responsive front-end
 - [ ] User authentication & profile pages
+- [ ] Core posting features (text + photo)
 - [ ] Real-time comments & likes
-- [ ] Daily verse generator
 - [ ] Tagging + Search functionality
-- [ ] Admin moderation tools
+- [ ] Daily verse generator
 - [ ] Group devotionals & themed weeks
 - [ ] iOS/Android deployment
 
@@ -81,7 +79,23 @@ Want to help? Submit a pull request or open an issue!
 
 > *“Let all that you do be done in love.” – 1 Corinthians 16:14*
 
+___
+<!--
+
+## 📲 Try out Jesus Freaks!
+
+# Before going and interacting... 🫸
+
+_Remember God's Mission_ : Provide an encoraging and safe enviornment for others. Use this platform for God's glory and not your own. ` 1 Corinthians 10:31 `
+
+_Remember God's Word_ : When choosing to teach and guide others be sure to be spiritually alligned with God. ` Matthew 6:33`
+
+_Check out our webpage here ->_ [JesusFreaks.com](https://JesusFreaks.com) 🕸️
+
+_Download the app ->_ [JesusFreaks App](https://JesusFreaks.com) 💥
+
 ---
+-->
 
 ## 🙌 Built With
 
