@@ -85,8 +85,9 @@ Want to help? Submit a pull request or open an issue!
 
 ## 🙌 Built With
 
-- ASP.NET Core Web API 💻  
+- ASP.NET Core Web API/C# 💻  
 - HTML/CSS/JavaScript 🌐  
+- TypeScript/React/React-Native ⚡️
 - Visual Studio Code 🛠️  
 - Git + GitHub 📁  
 - God-given inspiration ✝️❤️
