@@ -90,6 +90,9 @@ _Remember God's Mission_ : Provide an encoraging and safe enviornment for others
 
 _Remember God's Word_ : When choosing to teach and guide others be sure to be spiritually alligned with God. ` Matthew 6:33`
 
+_Check out this podcast episode_ -> [With The Perry's - How to be a Christian on Social Media](https://podcasts.apple.com/us/podcast/how-to-be-a-christian-on-social-media/id1458672189?i=1000708091399)
+
+
 _Check out our webpage here ->_ [JesusFreaks.com](https://JesusFreaks.com) 🕸️
 
 _Download the app ->_ [JesusFreaks App](https://JesusFreaks.com) 💥
